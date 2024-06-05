@@ -30,7 +30,6 @@
             <e p="LoadingCurtain.cs" t="Include" />
             <e p="SceneLoader.cs" t="Include" />
             <e p="Services" t="Include">
-              <e p="AllServices.cs" t="Include" />
               <e p="Audio" t="Include">
                 <e p="AudioId.cs" t="Include" />
                 <e p="AudioService.cs" t="Include" />
@@ -98,11 +97,6 @@
             <e p="LootPieceDataDictionary.cs" t="Include" />
             <e p="PlayerProgress.cs" t="Include" />
             <e p="PositionOnLevel.cs" t="Include" />
-            <e p="ResourcesLootData" t="Include">
-              <e p="GoldData.cs" t="Include" />
-              <e p="LootData.cs" t="Include" />
-              <e p="SparePartsData.cs" t="Include" />
-            </e>
             <e p="SerializableDictionary.cs" t="Include" />
             <e p="State.cs" t="Include" />
             <e p="Stats.cs" t="Include" />

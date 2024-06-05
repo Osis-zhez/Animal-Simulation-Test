@@ -1,7 +1,5 @@
 using System;
 using CodeBase.Architecture.Services.StaticData;
-using CodeBase.Data.ResourcesLootData;
-using CodeBase.StaticData;
 
 namespace CodeBase.Data
 {
