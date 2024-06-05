@@ -4,12 +4,8 @@ using CodeBase.Architecture.Factory;
 using CodeBase.Architecture.Services.Input;
 using CodeBase.Architecture.Services.PersistentProgress;
 using CodeBase.Architecture.Services.StaticData;
-using CodeBase.Data;
-using CodeBase.StaticData;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using Zenject;
-using IInitializable = CodeBase.Architecture.Factory.IInitializable;
 using LevelServices = CodeBase.GameServices.LevelServices;
 
 namespace CodeBase.Architecture.States

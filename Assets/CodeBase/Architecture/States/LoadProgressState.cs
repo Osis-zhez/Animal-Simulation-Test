@@ -1,9 +1,7 @@
-using System.Collections.Generic;
 using CodeBase.Architecture.Services.PersistentProgress;
 using CodeBase.Architecture.Services.SaveLoad;
 using CodeBase.Architecture.Services.StaticData;
 using CodeBase.Data;
-using CodeBase.StaticData;
 using UnityEngine;
 
 namespace CodeBase.Architecture.States

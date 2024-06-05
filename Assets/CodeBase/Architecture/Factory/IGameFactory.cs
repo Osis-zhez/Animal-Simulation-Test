@@ -5,7 +5,6 @@ using CodeBase.Architecture.Services.PersistentProgress;
 using CodeBase.Architecture.Services.SaveLoad;
 using CodeBase.Architecture.States;
 using CodeBase.GameServices;
-using CodeBase.StaticData;
 using CodeBase.UI.Menu_UI;
 using UnityEngine;
 

@@ -41,12 +41,6 @@
                 <e p="MobileInputService.cs" t="Include" />
               </e>
               <e p="IService.cs" t="Include" />
-              <e p="Level" t="Include">
-                <e p="ILevelService.cs" t="Include" />
-                <e p="ILocalService.cs" t="Include" />
-                <e p="LevelServices.cs" t="Include" />
-                <e p="LocalDiContainer.cs" t="Include" />
-              </e>
               <e p="PersistentProgress" t="Include">
                 <e p="IPersistentProgressService.cs" t="Include" />
                 <e p="ISavedProgress.cs" t="Include" />
@@ -56,15 +50,6 @@
               <e p="Randomizer" t="Include">
                 <e p="IRandomService.cs" t="Include" />
                 <e p="RandomService.cs" t="Include" />
-              </e>
-              <e p="ResourcesLoot" t="Include">
-                <e p="GoldResource.cs" t="Include" />
-                <e p="IResource.cs" t="Include" />
-                <e p="IResourcesService.cs" t="Include" />
-                <e p="ISparePartsService.cs" t="Include" />
-                <e p="ResourcesId.cs" t="Include" />
-                <e p="ResourcesService.cs" t="Include" />
-                <e p="SparePartsResource.cs" t="Include" />
               </e>
               <e p="SaveLoad" t="Include">
                 <e p="ISaveLoadService.cs" t="Include" />
@@ -113,9 +98,7 @@
             <e p="LevelServices.cs" t="Include" />
             <e p="UIRoot.cs" t="Include" />
           </e>
-          <e p="StaticData" t="Include">
-            <e p="MonsterTypeId.cs" t="Include" />
-          </e>
+          <e p="StaticData" t="Include" />
           <e p="UI" t="Include">
             <e p="Menu_UI" t="Include">
               <e p="MenuUIRoot.cs" t="Include" />

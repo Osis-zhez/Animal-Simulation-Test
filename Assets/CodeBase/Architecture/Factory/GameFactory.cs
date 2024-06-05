@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using System.ComponentModel.Design;
 using System.Threading.Tasks;
 using CodeBase.Architecture.AssetManagement;
 using CodeBase.Architecture.Services;
@@ -9,10 +8,7 @@ using CodeBase.Architecture.Services.SaveLoad;
 using CodeBase.Architecture.Services.StaticData;
 using CodeBase.Architecture.States;
 using CodeBase.GameServices;
-// using CodeBase.Logic.ResourcesLoot;
-using CodeBase.StaticData;
 using CodeBase.UI.Menu_UI;
-using Unity.VisualScripting;
 using UnityEngine;
 
 namespace CodeBase.Architecture.Factory
