@@ -32,20 +32,20 @@
         <option value="$PROJECT_DIR$/Assets/CodeBase/GameServices/UIRoot.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/LoadingCurtain.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/MainMenuState.cs" />
-        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/GameStateMachine.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/AssetManagement/AssetPath.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/AssetManagement/AssetAddress.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/Services/StaticData/StaticDataService.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/Services/StaticData/IStaticDataService.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Data/AmmunitionData.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Data/AmmoData.cs" />
-        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/LoadLevelState.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/BootstrapState.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/Services/SaveLoad/SaveLoadService.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/LoadProgressState.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Data/WorldData.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/Factory/GameFactory.cs" />
         <option value="$PROJECT_DIR$/Assets/CodeBase/GameServices/AnimalsSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/LoadLevelState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/GameStateMachine.cs" />
       </list>
     </option>
   </component>
@@ -91,7 +91,7 @@
       <workItem from="1717498382042" duration="8549000" />
       <workItem from="1717510956760" duration="15536000" />
       <workItem from="1717538525572" duration="3229000" />
-      <workItem from="1717585856770" duration="6032000" />
+      <workItem from="1717585856770" duration="7354000" />
     </task>
     <servers />
   </component>
@@ -104,13 +104,13 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="604" y="77" key="RiderGenerateDialog" timestamp="1717586420654">
+    <state x="604" y="77" key="RiderGenerateDialog" timestamp="1717592837104">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state x="604" y="77" key="RiderGenerateDialog/0.0.1676.902@0.0.1676.902" timestamp="1717586420654" />
-    <state x="416" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1717591205370">
+    <state x="604" y="77" key="RiderGenerateDialog/0.0.1676.902@0.0.1676.902" timestamp="1717592837104" />
+    <state x="416" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1717592782129">
       <screen x="0" y="0" width="1676" height="902" />
     </state>
-    <state x="416" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1676.902@0.0.1676.902" timestamp="1717591205370" />
+    <state x="416" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1676.902@0.0.1676.902" timestamp="1717592782129" />
   </component>
 </project>

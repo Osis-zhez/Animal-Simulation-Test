@@ -71,9 +71,6 @@
                 <e p="ISaveLoadService.cs" t="Include" />
                 <e p="SaveLoadService.cs" t="Include" />
               </e>
-              <e p="SignalBus" t="Include">
-                <e p="SingalBusService.cs" t="Include" />
-              </e>
               <e p="StaticData" t="Include">
                 <e p="IStaticDataService.cs" t="Include" />
                 <e p="StaticDataService.cs" t="Include" />
@@ -123,11 +120,6 @@
             <e p="UIRoot.cs" t="Include" />
           </e>
           <e p="StaticData" t="Include">
-            <e p="EnemySpawnerStaticData.cs" t="Include" />
-            <e p="GameGlobalData.cs" t="Include" />
-            <e p="LevelStaticData.cs" t="Include" />
-            <e p="LocalServiceId.cs" t="Include" />
-            <e p="MonsterStaticData.cs" t="Include" />
             <e p="MonsterTypeId.cs" t="Include" />
           </e>
           <e p="UI" t="Include">
