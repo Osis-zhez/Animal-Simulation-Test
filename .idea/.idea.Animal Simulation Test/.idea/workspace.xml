@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1f4a934-8f92-4512-b023-bca4d66b0ecf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/CodeBase/GameServices/AnimalsSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CodeBase/GameServices/UIRoot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CodeBase/GameServices/Food.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B7513305-042D-4112-8726-D7378F1F9BA4/6a/21679340/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CodeBase/UI/Menu_UI/WorldSettingsWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CodeBase/UI/Menu_UI/StartMenu.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Services/ResourcesLoot/ResourcesService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Menu_UI/WorldSettingsWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Services/SaveLoad/SaveLoadService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Data/PlayerProgress.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/GameServices/Food.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/GameServices/UniqueId.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Menu_UI/StartMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/GameServices/Animal.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/UI/Menu_UI/MenuUIRoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Services/DIService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/Factory/IGameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/GameServices/UIRoot.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/LoadingCurtain.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/MainMenuState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/GameStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/AssetManagement/AssetPath.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/AssetManagement/AssetAddress.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/Services/StaticData/StaticDataService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/Services/StaticData/IStaticDataService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Data/AmmunitionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Data/AmmoData.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/LoadLevelState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/BootstrapState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/Services/SaveLoad/SaveLoadService.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/States/LoadProgressState.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Data/WorldData.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/Architecture/Factory/GameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/CodeBase/GameServices/AnimalsSystem.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hPaqOr7v401CPyh0szkv0Hw5Pk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1f4a934-8f92-4512-b023-bca4d66b0ecf" name="Default Changelist" comment="" />
+      <created>1717498361549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717498361549</updated>
+      <workItem from="1717498382042" duration="8549000" />
+      <workItem from="1717510956760" duration="15536000" />
+      <workItem from="1717538525572" duration="3229000" />
+      <workItem from="1717585856770" duration="6032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="77" key="RiderGenerateDialog" timestamp="1717586420654">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="604" y="77" key="RiderGenerateDialog/0.0.1676.902@0.0.1676.902" timestamp="1717586420654" />
+    <state x="416" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1717591205370">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="416" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1676.902@0.0.1676.902" timestamp="1717591205370" />
+  </component>
+</project>
